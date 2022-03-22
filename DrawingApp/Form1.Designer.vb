@@ -40,6 +40,8 @@ Partial Class Form1
         Me.SaveFileDialog1 = New System.Windows.Forms.SaveFileDialog()
         Me.TrackBar2 = New System.Windows.Forms.TrackBar()
         Me.TrackBar3 = New System.Windows.Forms.TrackBar()
+        Me.Label2 = New System.Windows.Forms.Label()
+        Me.Label3 = New System.Windows.Forms.Label()
         CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.TrackBar1, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.TrackBar2, System.ComponentModel.ISupportInitialize).BeginInit()
@@ -190,11 +192,31 @@ Partial Class Form1
         Me.TrackBar3.TabIndex = 15
         Me.TrackBar3.Value = 10
         '
+        'Label2
+        '
+        Me.Label2.AutoSize = True
+        Me.Label2.Location = New System.Drawing.Point(719, 282)
+        Me.Label2.Name = "Label2"
+        Me.Label2.Size = New System.Drawing.Size(36, 13)
+        Me.Label2.TabIndex = 16
+        Me.Label2.Text = "height"
+        '
+        'Label3
+        '
+        Me.Label3.AutoSize = True
+        Me.Label3.Location = New System.Drawing.Point(719, 231)
+        Me.Label3.Name = "Label3"
+        Me.Label3.Size = New System.Drawing.Size(32, 13)
+        Me.Label3.TabIndex = 17
+        Me.Label3.Text = "width"
+        '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(844, 487)
+        Me.Controls.Add(Me.Label3)
+        Me.Controls.Add(Me.Label2)
         Me.Controls.Add(Me.TrackBar3)
         Me.Controls.Add(Me.TrackBar2)
         Me.Controls.Add(Me.Button11)
@@ -240,4 +262,6 @@ Partial Class Form1
     Friend WithEvents SaveFileDialog1 As SaveFileDialog
     Friend WithEvents TrackBar2 As TrackBar
     Friend WithEvents TrackBar3 As TrackBar
+    Friend WithEvents Label2 As Label
+    Friend WithEvents Label3 As Label
 End Class
