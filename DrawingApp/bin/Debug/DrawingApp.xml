@@ -22,5 +22,10 @@ DrawingApp
   resource lookups using this strongly typed resource class.
 </summary>
 </member>
+<member name="P:WindowsApplication1.My.Resources.Resources._111012_NakedMoleRatPhoto_hmed_1125a">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
 </members>
 </doc>
