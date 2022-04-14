@@ -18,7 +18,6 @@
             If Type = "line" Then
                 d = New Line(PictureBox1.Image, m_Previous, e.Location)
                 d.Pen = New Pen(c, w)
-                d.xspeed = xSpeedTrackBar.Value
             End If
 
             If Type = "rectangle" Then
@@ -27,7 +26,6 @@
                 d.color1 = Button2.BackColor
                 d.color2 = Button3.BackColor
                 d.Pen = New Pen(c, w)
-                d.xspeed = xSpeedTrackBar.Value
             End If
 
             If type = "circle" Then
@@ -36,6 +34,15 @@
                 d.w = TrackBar2.Value
                 d.h = TrackBar3.Value
                 d.xspeed = xSpeedTrackBar.Value
+            End If
+
+            If type = "customshape" Then
+                d = New customshape(PictureBox1.Image, m_Previous, e.Location)
+                d.pen = New Pen(c, w)
+                d.w = TrackBar2.Value
+                d.h = TrackBar3.Value
+                d.xspeed = xSpeedTrackBar.Value
+                d.picture = PictureBox2.Image
             End If
 
             If type = "arc" Then
@@ -47,18 +54,15 @@
             If type = "square" Then
                 d = New square(PictureBox1.Image, m_Previous, e.Location)
                 d.pen = New Pen(c, w)
-
+                d.xspeed = xSpeedTrackBar.Value
                 d.w = TrackBar2.Value
                 d.h = TrackBar3.Value
-                d.xspeed = xSpeedTrackBar.Value
 
             End If
 
             If type = "pie" Then
                 d = New pie(PictureBox1.Image, m_Previous, e.Location)
                 d.pen = New Pen(c, w)
-                d.w = TrackBar2.Value
-                d.h = TrackBar3.Value
                 d.xspeed = xSpeedTrackBar.Value
             End If
 
@@ -73,7 +77,6 @@
                 d.pen = New Pen(c, w)
                 d.radius = TrackBar5.Value
                 d.sides = TrackBar4.Value
-                d.xspeed = xSpeedTrackBar.Value
             End If
 
             If type = "picture" Then
@@ -249,5 +252,9 @@
 
     Private Sub Button15_Click(sender As Object, e As EventArgs) Handles Button15.Click
         type = "circle"
+    End Sub
+
+    Private Sub Button21_Click(sender As Object, e As EventArgs) Handles Button21.Click
+        type = "customshape"
     End Sub
 End Class
