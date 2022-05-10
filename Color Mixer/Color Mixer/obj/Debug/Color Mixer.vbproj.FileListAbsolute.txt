@@ -1,0 +1,11 @@
+C:\Users\dffuc964\source\repos\Color Mixer\Color Mixer\bin\Debug\Color Mixer.exe.config
+C:\Users\dffuc964\source\repos\Color Mixer\Color Mixer\bin\Debug\Color Mixer.exe
+C:\Users\dffuc964\source\repos\Color Mixer\Color Mixer\bin\Debug\Color Mixer.pdb
+C:\Users\dffuc964\source\repos\Color Mixer\Color Mixer\bin\Debug\Color Mixer.xml
+C:\Users\dffuc964\source\repos\Color Mixer\Color Mixer\obj\Debug\Color Mixer.vbprojAssemblyReference.cache
+C:\Users\dffuc964\source\repos\Color Mixer\Color Mixer\obj\Debug\Color_Mixer.Form1.resources
+C:\Users\dffuc964\source\repos\Color Mixer\Color Mixer\obj\Debug\Color_Mixer.Resources.resources
+C:\Users\dffuc964\source\repos\Color Mixer\Color Mixer\obj\Debug\Color Mixer.vbproj.GenerateResource.cache
+C:\Users\dffuc964\source\repos\Color Mixer\Color Mixer\obj\Debug\Color Mixer.exe
+C:\Users\dffuc964\source\repos\Color Mixer\Color Mixer\obj\Debug\Color Mixer.xml
+C:\Users\dffuc964\source\repos\Color Mixer\Color Mixer\obj\Debug\Color Mixer.pdb
