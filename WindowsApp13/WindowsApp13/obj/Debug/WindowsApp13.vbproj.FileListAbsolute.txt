@@ -1,0 +1,11 @@
+C:\Users\dffuc964\source\repos\WindowsApp13\WindowsApp13\bin\Debug\WindowsApp13.exe.config
+C:\Users\dffuc964\source\repos\WindowsApp13\WindowsApp13\bin\Debug\WindowsApp13.exe
+C:\Users\dffuc964\source\repos\WindowsApp13\WindowsApp13\bin\Debug\WindowsApp13.pdb
+C:\Users\dffuc964\source\repos\WindowsApp13\WindowsApp13\bin\Debug\WindowsApp13.xml
+C:\Users\dffuc964\source\repos\WindowsApp13\WindowsApp13\obj\Debug\WindowsApp13.vbprojAssemblyReference.cache
+C:\Users\dffuc964\source\repos\WindowsApp13\WindowsApp13\obj\Debug\WindowsApp13.Form1.resources
+C:\Users\dffuc964\source\repos\WindowsApp13\WindowsApp13\obj\Debug\WindowsApp13.Resources.resources
+C:\Users\dffuc964\source\repos\WindowsApp13\WindowsApp13\obj\Debug\WindowsApp13.vbproj.GenerateResource.cache
+C:\Users\dffuc964\source\repos\WindowsApp13\WindowsApp13\obj\Debug\WindowsApp13.exe
+C:\Users\dffuc964\source\repos\WindowsApp13\WindowsApp13\obj\Debug\WindowsApp13.xml
+C:\Users\dffuc964\source\repos\WindowsApp13\WindowsApp13\obj\Debug\WindowsApp13.pdb

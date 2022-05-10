@@ -118,31 +118,34 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="arch" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\arch.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="ew" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ew.jfif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="pie" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\pie.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="salt and vin" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\salt and vin.jfif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="INNT6RHNTaYMwuI1yWA4_rectangle" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\INNT6RHNTaYMwuI1yWA4_rectangle.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="idek" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\idek.jfif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="circle" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\circle.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="flamin" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\flamin.jfif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="480px-Screw_Head_-_Square_External1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\480px-Screw_Head_-_Square_External.svg1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="lays pot" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\lays pot.jfif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="black-rec" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\black-rec.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="massala" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\massala.jfif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="111012-NakedMoleRatPhoto-hmed-1125a" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\111012-NakedMoleRatPhoto-hmed-1125a.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="chip" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\chip.jfif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="480px-Screw_Head_-_Square_External.svg" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\480px-Screw_Head_-_Square_External.svg.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="orig" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\orig.jfif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="D O G" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\D O G.JPG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="limon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\limon.jfif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="balsamic" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\balsamic.jfif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>
